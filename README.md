@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogan Alp Akbas</h1>
 <h3 align="center">Junior software developer from Turkey.</h3>
-<img align="center" alt ="coding" src= "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6541f31-12b2-4c19-b8ed-a19f2b3a56f9_800x591.gif">
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6541f31-12b2-4c19-b8ed-a19f2b3a56f9_800x591.gif)
+<img align="center" alt ="coding" src= "![image](https://github.com/doganalpppp/doganalpppp/assets/130001604/0dddbc10-5c9d-496d-af96-bb3ff5c5d1f4)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doganalpppp&label=Profile%20views&color=0e75b6&style=flat" alt="doganalpppp" /> </p>
 
 - 🔭 I’m currently working on **Euler Projects**
