@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dogan Alp Akbas</h1>
 <h3 align="center">Junior software developer from Turkey.</h3>
-<img align="center" alt ="coding" src= "![image](https://github.com/doganalpppp/doganalpppp/assets/130001604/0dddbc10-5c9d-496d-af96-bb3ff5c5d1f4)">
+<img align="right" alt ="coding" width ="400" src= "![image](https://github.com/doganalpppp/doganalpppp/assets/130001604/0dddbc10-5c9d-496d-af96-bb3ff5c5d1f4)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doganalpppp&label=Profile%20views&color=0e75b6&style=flat" alt="doganalpppp" /> </p>
 
