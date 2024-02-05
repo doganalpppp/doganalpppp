@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **doganalp179@gmail.com**
 
-- 📄 Know about my experiences [https://jmp.sh/8DCxtdNe](https://jmp.sh/8DCxtdNe)
+- 📄 Know about my experiences [Know about my experiences](https://jmp.sh/qzgvDv7b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
